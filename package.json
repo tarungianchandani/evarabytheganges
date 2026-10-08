@@ -1,0 +1,11 @@
+{
+  "name": "evara-by-the-ganges",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Evara By The Ganges — boutique riverside apartment homestay website (static HTML/CSS/JS)",
+  "scripts": {
+    "dev": "npx serve public",
+    "build": "echo 'Static site — nothing to build'",
+    "start": "npx serve public"
+  }
+}
